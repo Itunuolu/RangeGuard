@@ -1,0 +1,1 @@
+self.__SSG_MANIFEST=new Set(["\u002Fapp\u002Fpools\u002F[poolAddress]","\u002Fapp\u002Fpositions\u002F[positionId]"]);self.__SSG_MANIFEST_CB&&self.__SSG_MANIFEST_CB()
